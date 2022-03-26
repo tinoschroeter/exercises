@@ -1,7 +1,7 @@
 const numberOfStatesInGermany = 16 + 1;
 const numberOfRiversInGermany = 15000;
 
-console.log(numberOfRiverInGermany)
+console.log()
 
 // autocomplete variable in console.log()
 
