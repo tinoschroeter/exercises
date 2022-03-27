@@ -10,7 +10,7 @@ users:
   musical 1005
   crackpot 1006
 
-# Sort pillar first and put it in the following form utahdave: 1002_w (use macros)
+# Sort pillar first(numeric) and put it in the following form utahdave: 1002_w (use macros)
 
 # solution
 tail -n1 <file>|base64 -d
